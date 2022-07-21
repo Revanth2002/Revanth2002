@@ -49,13 +49,13 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" />
 </div>
 
-- :telescope: I’m am a Freelancer and a Full-stack Web and App Developer, pursuing my computer science degree.
+- :telescope: I’m am a Freelancer and a Full-stack Web and App Developer, pursuing my computer science degree.I am much more interested in developing backend and designing exemplary and creative user interfafces.
 
 - :seedling: Exploring deep into the technical architecture of applications.
 
--	:man_technologist: Developing myself to the new technological stack available in the market.
+- :man_technologist: Developing myself to the new technological stack available in the market.
 
-- :zap: In my leisure time, I solve problems on Hackerrank.
+- :zap: In my leisure time, I solve problems on Hackerrank and design creative user interfaces.
 
 ---
 
